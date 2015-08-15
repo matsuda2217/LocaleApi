@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocaleApi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_you_are_at">You are At</string>
+    <string name="btn_get_location">get my location</string>
+    <string name="btn_start_location_updates">start location update</string>
+    <string name="btn_stop_location_updates">stop location update</string>
+</resources>
